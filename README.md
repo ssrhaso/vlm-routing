@@ -1,6 +1,6 @@
 # Efficient Vision-Language Model Routing
 
-> **Make VLMs 3-5x faster by routing simple queries to CLIP, complex queries to LLaVA.**
+> **Make VLMs x times faster by routing simple queries to CLIP, complex queries to LLaVA.**
 
 ##  The Problem
 - **LLaVA:** 1500ms (Slow & Expensive)
