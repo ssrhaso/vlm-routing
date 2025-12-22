@@ -6,4 +6,4 @@
 - **LLaVA:** 1500ms (Slow & Expensive)
 - **CLIP:** 50ms (Fast & Cheap)
 - **Reality:** 80% of user queries are simple ("What color is this?").
-- **Solution:** A lightweight router (18ms) that sends simple queries to the fast model.
+- **Solution:** A lightweight router (18ms) that sends simple queries to the faster model.
